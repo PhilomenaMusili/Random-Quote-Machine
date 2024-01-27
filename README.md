@@ -2,7 +2,10 @@
 
 The Random Quote Machine is a web application that displays random inspirational quotes. It fetches quotes from the [Type.fit API](https://type.fit/api/quotes) and allows users to get a new quote and share quotes on social media platforms.
 ## Preview
+This is just an overview of how the random quote machine works
+
 ![Preview](Quotes.png)
+
 ## Getting Started
 
 To run the Random Quote Machine locally, follow these steps:
