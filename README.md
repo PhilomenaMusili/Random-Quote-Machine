@@ -32,7 +32,7 @@ The application should now be running at http://localhost:3000.
 ## Features
 
 Displays a random quote from a collection of inspirational quotes.
-Allows users to get a new random quote.
+It also allows users to get a new random quote.
 Provides buttons to share quotes on Twitter and Tumblr.
 
 ## Technologies Used
