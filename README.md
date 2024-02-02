@@ -36,6 +36,7 @@ It also allows users to get a new random quote.
 Provides buttons to share quotes on Twitter and Tumblr.
 
 ## Technologies Used
+
 React: A JavaScript library for building user interfaces.
 
 Bootstrap: A popular CSS framework for styling web applications.
@@ -43,4 +44,5 @@ Bootstrap: A popular CSS framework for styling web applications.
 Font Awesome: A library of scalable vector icons.
 
 ## License
+
 This project is licensed under the MIT License.
