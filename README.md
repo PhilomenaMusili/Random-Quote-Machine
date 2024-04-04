@@ -10,7 +10,7 @@ This is just an overview of how the random quote machine works.
 
 ## Getting Started
 
-To run the Random Quote Machine locally, follow these steps:
+To run the Random Quote Machine locally, follow the following steps:
 
 1. Clone the repository:
 
