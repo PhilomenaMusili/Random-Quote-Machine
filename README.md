@@ -27,7 +27,7 @@ npm install
 4. Start the application:
 
 npm start
-The application should now be running at http://localhost:3000.
+The application should now be running at port http://localhost:3000.
 
 ## Features
 
