@@ -4,7 +4,7 @@ The Random Quote Machine is a web application that displays random inspirational
 
 ## Preview
 
-This is just an overview of how the random quote machine works.
+This is just an overview of how the random quote machine.
 
 ![Preview](Quotes.png)
 
