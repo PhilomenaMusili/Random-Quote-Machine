@@ -35,7 +35,6 @@ Displays a random quote from a collection of inspirational quotes.
 It also allows users to get a new random quote.
 Provides buttons to share quotes on Twitter and Tumblr.
 
-You can also add yours
 
 ## Technologies Used
 
