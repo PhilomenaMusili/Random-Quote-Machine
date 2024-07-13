@@ -34,7 +34,7 @@ The application should now be running at port http://localhost:3000.
 Displays a random quote from a collection of inspirational quotes.
 
 It also allows users to get a new random quote.
-Provides buttons to share quotes on Twitter and Tumblr.
+Provides buttons to share quotes on Twitter and Tumblr. Don't miss out
 
 
 ## Technologies Used
