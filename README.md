@@ -49,6 +49,6 @@ Font Awesome: A library of scalable vector icons.
 
 This project is licensed under the MIT License.
 
-## Goodluck Developers 
+##  Motivation 
 
-You got this.Best of Luck Dev.Never give up
+You got this.Best of Luck Dev.Never give up. One bug at a time
